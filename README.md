@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/29812914/121786252-de751b80-cbe8-11eb-
 ### Features
 - Collapsing
 - Reordering
-- Resizing
+- List Resizing
 - No waste of space ♻️
 
 ## Say Thanks 💊
