@@ -3,6 +3,8 @@ Drag'n'drop this drawer into your project and take a deep breath.
 
 https://user-images.githubusercontent.com/29812914/121786252-de751b80-cbe8-11eb-8a93-a602c50e19cd.mp4
 
+![before-after](https://user-images.githubusercontent.com/29812914/121787126-93f69d80-cbee-11eb-9bb7-adcd390ed370.png)
+
 ### Features
 - Collapsing
 - Reordering
