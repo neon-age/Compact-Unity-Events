@@ -1,4 +1,6 @@
 # Compact-Unity-Events
+[Included in Smart Inspector!](https://github.com/neon-age/Smart-Inspector)
+
 Drag'n'drop this drawer into your project and take a deep breath.
 
 https://user-images.githubusercontent.com/29812914/121786252-de751b80-cbe8-11eb-8a93-a602c50e19cd.mp4
